@@ -1,0 +1,23 @@
+
+.leftStart{
+    font-family: cursive;
+    text-align: right;
+    font-size: 30px;
+}
+.container {
+    display: flex;
+}
+.dayTime{
+    border-bottom: 2px solid black;
+}
+.lower{
+    word-spacing: 220px;
+    background-color: grey;
+    border-bottom:2px solid black;
+}
+.col-4{
+    background: rgb(236, 234, 234);
+}
+.inside{
+    background: rgb(226, 207, 207)
+}
