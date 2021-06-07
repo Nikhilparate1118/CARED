@@ -1,1 +1,1 @@
-# Assignments-Javascript
+# NewsPaper Design
